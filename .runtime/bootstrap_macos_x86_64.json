@@ -1,0 +1,17 @@
+{
+  "app_version": "1.0.0",
+  "bootstrap_schema": 1,
+  "browser_executable": "/Users/user/Library/Caches/ms-playwright/chromium-1223/chrome-mac-x64/Google Chrome for Testing.app/Contents/MacOS/Google Chrome for Testing",
+  "computer_name": "A2141.local",
+  "operating_system": "Darwin",
+  "playwright_version": "1.60.0",
+  "processor_architecture": "x86_64",
+  "python_executable": "/Users/user/micromamba/envs/universal/bin/python3.10",
+  "python_version": [
+    3,
+    10
+  ],
+  "singlefile_path": "/Users/user/Desktop/desktop/General/projects/html_to_pdf_converter/tools/single-file-x86_64-apple-darwin",
+  "singlefile_release": "v2.0.83",
+  "singlefile_sha256": "52d1c8cb1e1788c0a7f690042fed0c6ff5034904b3c50669d222097961fa8bff"
+}
